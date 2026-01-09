@@ -410,9 +410,9 @@ INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\00_preface.aux
 INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch00.aux
 INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch00.aux
 INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch00.aux
-INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch_test.aux
-INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch_test.aux
-INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch_test.aux
+INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\chb_test.aux
+INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\chb_test.aux
+INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\chb_test.aux
 INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch01.aux
 INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch01.aux
 INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch01.aux
@@ -478,6 +478,28 @@ OUTPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\00_preface.aux
 INPUT d:\Projects\Study-Notes\Math-Notes\build\main.toc
 INPUT d:\Projects\Study-Notes\Math-Notes\build\main.toc
 INPUT d:\Projects\Study-Notes\Math-Notes\build\main.toc
+OUTPUT d:\Projects\Study-Notes\Math-Notes\build\main.toc
+INPUT d:\Projects\Study-Notes\Math-Notes\build\main.lof
+INPUT d:\Projects\Study-Notes\Math-Notes\build\main.lof
+INPUT d:\Projects\Study-Notes\Math-Notes\build\main.lof
+OUTPUT d:\Projects\Study-Notes\Math-Notes\build\main.lof
+INPUT d:\Projects\Study-Notes\Math-Notes\build\main.lot
+INPUT d:\Projects\Study-Notes\Math-Notes\build\main.lot
+INPUT d:\Projects\Study-Notes\Math-Notes\build\main.lot
+OUTPUT d:\Projects\Study-Notes\Math-Notes\build\main.lot
+INPUT .\chapters\ch00.tex
+INPUT .\chapters\ch00.tex
+OUTPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch00.aux
+INPUT .\chapters\ch00.tex
+INPUT .\chapters\ch00.tex
+INPUT chapters\ch00.tex
+OUTPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\chb_test.aux
+INPUT .\chapters\ch01.tex
+INPUT .\chapters\ch01.tex
+OUTPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch01.aux
+INPUT .\chapters\ch01.tex
+INPUT .\chapters\ch01.tex
+INPUT chapters\ch01.tex
 INPUT D:\Program Files\MikeTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT D:\Program Files\MikeTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT D:\Program Files\MikeTeX\tex\latex\amsfonts\umsa.fd
@@ -501,58 +523,6 @@ INPUT D:\Program Files\MikeTeX\fonts\tfm\public\amsfonts\cmextra\cmmib5.tfm
 INPUT D:\Program Files\MikeTeX\fonts\tfm\public\cm\cmbsy10.tfm
 INPUT D:\Program Files\MikeTeX\fonts\tfm\public\amsfonts\cmextra\cmbsy7.tfm
 INPUT D:\Program Files\MikeTeX\fonts\tfm\public\amsfonts\cmextra\cmbsy5.tfm
-OUTPUT d:\Projects\Study-Notes\Math-Notes\build\main.toc
-INPUT d:\Projects\Study-Notes\Math-Notes\build\main.lof
-INPUT d:\Projects\Study-Notes\Math-Notes\build\main.lof
-INPUT d:\Projects\Study-Notes\Math-Notes\build\main.lof
-OUTPUT d:\Projects\Study-Notes\Math-Notes\build\main.lof
-INPUT d:\Projects\Study-Notes\Math-Notes\build\main.lot
-INPUT d:\Projects\Study-Notes\Math-Notes\build\main.lot
-INPUT d:\Projects\Study-Notes\Math-Notes\build\main.lot
-OUTPUT d:\Projects\Study-Notes\Math-Notes\build\main.lot
-INPUT .\chapters\ch00.tex
-INPUT .\chapters\ch00.tex
-OUTPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch00.aux
-INPUT .\chapters\ch00.tex
-INPUT .\chapters\ch00.tex
-INPUT chapters\ch00.tex
-INPUT .\chapters\ch_test.tex
-INPUT .\chapters\ch_test.tex
-OUTPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch_test.aux
-INPUT .\chapters\ch_test.tex
-INPUT .\chapters\ch_test.tex
-INPUT chapters\ch_test.tex
-INPUT D:\Program Files\MikeTeX\fonts\tfm\public\cm\cmmi8.tfm
-INPUT D:\Program Files\MikeTeX\fonts\tfm\public\cm\cmmi6.tfm
-INPUT D:\Program Files\MikeTeX\fonts\tfm\public\cm\cmsy8.tfm
-INPUT D:\Program Files\MikeTeX\fonts\tfm\public\cm\cmsy6.tfm
-INPUT D:\Program Files\MikeTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
-INPUT D:\Program Files\MikeTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT D:\Program Files\MikeTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT D:\Program Files\MikeTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT D:\Program Files\MikeTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT D:\Program Files\MikeTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT D:\Program Files\MikeTeX\fonts\tfm\public\cm\cmbx8.tfm
-INPUT D:\Program Files\MikeTeX\fonts\tfm\public\cm\cmbx6.tfm
-INPUT D:\Program Files\MikeTeX\fonts\tfm\public\cm\cmmib10.tfm
-INPUT D:\Program Files\MikeTeX\fonts\tfm\public\amsfonts\cmextra\cmmib7.tfm
-INPUT D:\Program Files\MikeTeX\fonts\tfm\public\cm\cmbsy10.tfm
-INPUT D:\Program Files\MikeTeX\fonts\tfm\public\amsfonts\cmextra\cmbsy7.tfm
-INPUT D:\Program Files\MikeTeX\fonts\tfm\public\cm\cmr8.tfm
-INPUT D:\Program Files\MikeTeX\fonts\tfm\public\cm\cmr6.tfm
-INPUT .\figures\ch02\three.pdf
-INPUT .\figures\ch02\three.pdf
-INPUT D:\Program Files\MikeTeX\tex\latex\listings\lstlang1.sty
-INPUT D:\Program Files\MikeTeX\tex\latex\listings\lstlang1.sty
-INPUT D:\Program Files\MikeTeX\tex\latex\listings\lstlang1.sty
-INPUT .\figures\ch02\three.pdf
-INPUT .\figures\ch02\three.pdf
-INPUT .\chapters\ch01.tex
-INPUT .\chapters\ch01.tex
-OUTPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch01.aux
-INPUT .\chapters\ch01.tex
-INPUT .\chapters\ch01.tex
-INPUT chapters\ch01.tex
 INPUT .\chapters\ch02.tex
 INPUT .\chapters\ch02.tex
 OUTPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch02.aux
@@ -638,9 +608,9 @@ INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\00_preface.aux
 INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch00.aux
 INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch00.aux
 INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch00.aux
-INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch_test.aux
-INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch_test.aux
-INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch_test.aux
+INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\chb_test.aux
+INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\chb_test.aux
+INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\chb_test.aux
 INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch01.aux
 INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch01.aux
 INPUT d:\Projects\Study-Notes\Math-Notes\build\chapters\ch01.aux
