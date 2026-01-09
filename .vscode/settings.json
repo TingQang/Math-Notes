@@ -51,16 +51,9 @@
         "cSpell.words": [
         "kaoyan",  // 新增：忽略考研相关自定义关键词的拼写警告
         "xelatex", // 可保留其他已有的白名单单词
-        "latexmk",
-        "biber",
-        "synctex",
-        "stringstyle",
-        "breaklines",
-        "lstlisting",
-        "lstset",
-        "htbp",
-        "tcolorbox",
-        "pdfauthor",
-        "pdfsubject",
+        "latexmk","biber","synctex",
+        "stringstyle","breaklines",
+        "lstlisting","lstset","htbp",
+        "tcolorbox", "pdfauthor", "pdfsubject","amsthm"
     ]
 }

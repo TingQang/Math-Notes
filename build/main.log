@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.9)  9 JAN 2026 04:56
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.9)  9 JAN 2026 22:17
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Projects/Math-Notes/main.tex
-(d:/Projects/Math-Notes/main.tex
+**d:/Projects/Study-Notes/Math-Notes/main.tex
+(d:/Projects/Study-Notes/Math-Notes/main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (D:\Program Files\MikeTeX\tex/latex/base\book.cls
@@ -1390,13 +1390,13 @@ Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
 \c@tcb@cnt@lemma=\count566
 \c@tcb@cnt@corollary=\count567
 \c@tcb@cnt@remark=\count568
-Package hyperref Info: Option `colorlinks' set `true' on input line 255.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 255.
+Package hyperref Info: Option `colorlinks' set `true' on input line 267.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 267.
 )
 Package translations Info: No language package found. I am going to use `english' as default language. on input line 12.
 \@quotelevel=\count569
 \@quotereset=\count570
- (d:\Projects\Math-Notes\build\main.aux (d:\Projects\Math-Notes\build\chapters/00_preface.aux) (d:\Projects\Math-Notes\build\chapters/ch00.aux) (d:\Projects\Math-Notes\build\chapters/ch01.aux) (d:\Projects\Math-Notes\build\chapters/ch02.aux) (d:\Projects\Math-Notes\build\chapters/ch03.aux) (d:\Projects\Math-Notes\build\chapters/ch04.aux) (d:\Projects\Math-Notes\build\chapters/ch05.aux) (d:\Projects\Math-Notes\build\chapters/ch06.aux) (d:\Projects\Math-Notes\build\chapters/ch07.aux) (d:\Projects\Math-Notes\build\chapters/ch08.aux) (d:\Projects\Math-Notes\build\chapters/ch09.aux) (d:\Projects\Math-Notes\build\chapters/ch10.aux) (d:\Projects\Math-Notes\build\chapters/ch99.aux))
+ (d:\Projects\Study-Notes\Math-Notes\build\main.aux (d:\Projects\Study-Notes\Math-Notes\build\chapters/00_preface.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch00.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch_test.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch01.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch02.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch03.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch04.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch05.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch06.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch07.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch08.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch09.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch10.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch11.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch12.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch13.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch99.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -1512,7 +1512,7 @@ File: translations-basic-dictionary-english.trsl (english translation file `tran
 Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 12.
 \c@lstlisting=\count571
 Package hyperref Info: Link coloring ON on input line 12.
- (d:\Projects\Math-Notes\build\main.out) (d:\Projects\Math-Notes\build\main.out)
+ (d:\Projects\Study-Notes\Math-Notes\build\main.out) (d:\Projects\Study-Notes\Math-Notes\build\main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
@@ -1529,7 +1529,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (d:\Projects\Math-Notes\build\main.bbl)
+ (d:\Projects\Study-Notes\Math-Notes\build\main.bbl)
 Package biblatex Info: Reference section=0 on input line 12.
 Package biblatex Info: Reference segment=0 on input line 12.
  [1
@@ -1540,7 +1540,7 @@ Package biblatex Info: Reference segment=0 on input line 12.
 
 
 No file chapters/00_preface.tex.
-(d:\Projects\Math-Notes\build\main.toc
+(d:\Projects\Study-Notes\Math-Notes\build\main.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
  (D:\Program Files\MikeTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1548,27 +1548,27 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
  (D:\Program Files\MikeTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+) [1
+
+
+
+
+
+])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [1
-
-
-
-
-
-] (d:\Projects\Math-Notes\build\main.lof)
+ [2] (d:\Projects\Study-Notes\Math-Notes\build\main.lof)
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
- [2
+ [3
 
-] (d:\Projects\Math-Notes\build\main.lot)
+] (d:\Projects\Study-Notes\Math-Notes\build\main.lot)
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
- [3
+ [4
 
 ]
 \openout2 = `chapters/ch00.aux'.
@@ -1578,21 +1578,11 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 ]
-\openout2 = `chapters/ch01.aux'.
+\openout2 = `chapters/ch_test.aux'.
 
- (chapters/ch01.tex
+ (chapters/ch_test.tex
 Chapter 1.
 [2
-
-
-
-
-] [3] [4]) [5]
-\openout2 = `chapters/ch02.aux'.
-
- (chapters/ch02.tex
-Chapter 2.
-[6
 
 
 
@@ -1603,38 +1593,144 @@ File: figures/ch02/three.pdf Graphic file (type pdf)
  (D:\Program Files\MikeTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 118.
- [7] [8]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 117.
+ [3] [4]
 File: figures/ch02/three.pdf Graphic file (type pdf)
 <use figures/ch02/three.pdf>
-) [9]
+ [5] [6] [7]) [8]
+\openout2 = `chapters/ch01.aux'.
+
+ (chapters/ch01.tex
+Chapter 2.
+) [9
+
+
+
+
+]
+\openout2 = `chapters/ch02.aux'.
+
+ (chapters/ch02.tex
+Chapter 3.
+) [10
+
+
+
+
+]
 \openout2 = `chapters/ch03.aux'.
 
- (chapters/ch03.tex)
+ (chapters/ch03.tex
+Chapter 4.
+) [11
+
+
+
+
+]
 \openout2 = `chapters/ch04.aux'.
 
- (chapters/ch04.tex)
+ (chapters/ch04.tex
+Chapter 5.
+) [12
+
+
+
+
+]
 \openout2 = `chapters/ch05.aux'.
 
- (chapters/ch05.tex)
+ (chapters/ch05.tex
+Chapter 6.
+) [13
+
+
+
+
+]
 \openout2 = `chapters/ch06.aux'.
 
- (chapters/ch06.tex)
+ (chapters/ch06.tex
+Chapter 7.
+) [14
+
+
+
+
+]
 \openout2 = `chapters/ch07.aux'.
 
- (chapters/ch07.tex)
+ (chapters/ch07.tex
+Chapter 8.
+) [15
+
+
+
+
+]
 \openout2 = `chapters/ch08.aux'.
 
- (chapters/ch08.tex)
+ (chapters/ch08.tex
+Chapter 9.
+) [16
+
+
+
+
+]
 \openout2 = `chapters/ch09.aux'.
 
- (chapters/ch09.tex)
+ (chapters/ch09.tex
+Chapter 10.
+) [17
+
+
+
+
+]
 \openout2 = `chapters/ch10.aux'.
 
- (chapters/ch10.tex)
+ (chapters/ch10.tex
+Chapter 11.
+) [18
+
+
+
+
+]
+\openout2 = `chapters/ch11.aux'.
+
+ (chapters/ch11.tex
+Chapter 12.
+) [19
+
+
+
+
+]
+\openout2 = `chapters/ch12.aux'.
+
+ (chapters/ch12.tex
+Chapter 13.
+) [20
+
+
+
+
+]
+\openout2 = `chapters/ch13.aux'.
+
+ (chapters/ch13.tex
+Chapter 14.
+) [21
+
+
+
+
+]
 \openout2 = `chapters/ch99.aux'.
 
- (chapters/ch99.tex) [10
+ (chapters/ch99.tex) [22
 
 
 
@@ -1642,48 +1738,24 @@ File: figures/ch02/three.pdf Graphic file (type pdf)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-] (d:\Projects\Math-Notes\build\main.aux (d:\Projects\Math-Notes\build\chapters/00_preface.aux) (d:\Projects\Math-Notes\build\chapters/ch00.aux) (d:\Projects\Math-Notes\build\chapters/ch01.aux) (d:\Projects\Math-Notes\build\chapters/ch02.aux) (d:\Projects\Math-Notes\build\chapters/ch03.aux) (d:\Projects\Math-Notes\build\chapters/ch04.aux) (d:\Projects\Math-Notes\build\chapters/ch05.aux) (d:\Projects\Math-Notes\build\chapters/ch06.aux) (d:\Projects\Math-Notes\build\chapters/ch07.aux) (d:\Projects\Math-Notes\build\chapters/ch08.aux) (d:\Projects\Math-Notes\build\chapters/ch09.aux) (d:\Projects\Math-Notes\build\chapters/ch10.aux) (d:\Projects\Math-Notes\build\chapters/ch99.aux))
+] (d:\Projects\Study-Notes\Math-Notes\build\main.aux (d:\Projects\Study-Notes\Math-Notes\build\chapters/00_preface.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch00.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch_test.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch01.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch02.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch03.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch04.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch05.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch06.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch07.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch08.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch09.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch10.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch11.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch12.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch13.aux) (d:\Projects\Study-Notes\Math-Notes\build\chapters/ch99.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A74DAE28E5416E8B165D49282018277C;2626.
+(rerunfilecheck)             Checksum: 66770D2E77E7CA68163F88D57E4DEF72;3799.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49164 strings out of 402987
- 1094089 string characters out of 5452665
- 2143179 words of memory out of 5000000
- 77135 multiletter control sequences out of 15000+600000
+ 49275 strings out of 402987
+ 1098996 string characters out of 5452665
+ 2156952 words of memory out of 5000000
+ 77218 multiletter control sequences out of 15000+600000
  639483 words of font info for 123 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 107i,14n,121p,716b,4883s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 107i,14n,121p,728b,4883s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on d:\Projects\Math-Notes\build\main.xdv (14 pages, 157284 bytes).
+Output written on d:\Projects\Study-Notes\Math-Notes\build\main.xdv (27 pages, 171004 bytes).
